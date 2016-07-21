@@ -20,7 +20,7 @@ Syllabus
 Week 1
 [x] Introduction to MongoDB, MongoDB-Ruby API, and CRUD
 [x] Welcome to Ruby on Rails Web Services and Integration with MongoDB!
-[ ] Introduction to NoSQL and MongoDB
+[x] Introduction to NoSQL and MongoDB
 [ ] CRUD
 [ ] Integrating MongoDB and Rails
 [ ] Programming Assignment: Integrating MongoDB Ruby Driver and Rails
