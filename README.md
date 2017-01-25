@@ -22,8 +22,8 @@ Introduction to NoSQL and MongoDB
 [x] Module 1: Introduction to MongoDB, Mongo-Ruby API, and CRUD 3 min
 [x] Github Repository for Module 1 10 min
 [x] Introduction to NoSQL 12 min
-[ ] Categories of NoSQL 8 min
-[ ] Introduction to MongoDB 8 min
+[x] Categories of NoSQL 8 min
+[x] Introduction to MongoDB 8 min
 [x] Mongo Installation 9 min
 [ ] MongoDB Basics 13 min
 [ ] Practice Programming Assignment - MongoDB Ruby Driver Connection 10 min
