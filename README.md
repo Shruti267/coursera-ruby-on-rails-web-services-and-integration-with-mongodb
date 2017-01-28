@@ -26,7 +26,7 @@ Introduction to NoSQL and MongoDB
 [x] Introduction to MongoDB 8 min
 [x] Mongo Installation 9 min
 [x] MongoDB Basics 13 min
-[ ] Practice Programming Assignment - MongoDB Ruby Driver Connection 10 min
+[x] Practice Programming Assignment - MongoDB Ruby Driver Connection 10 min
 CRUD
 [ ] Inserting Documents 5 min
 [ ] Practice Programming Assignment - MongoDB Ruby Driver CRUD 10 min
