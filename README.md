@@ -43,7 +43,7 @@ Integrating MongoDB and Rails
 [x] MVC Application 12 min
 [x] MongoLab Setup 9 min
 [x] Heroku Setup 6 min
-[ ] Programming Assignment: Integrating MongoDB Ruby Driver and Rails 4h
+[x] Programming Assignment: Integrating MongoDB Ruby Driver and Rails 4h
 
 Week 2
 Aggregation Framework
