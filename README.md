@@ -11,7 +11,7 @@ Solution Integrator Experienced - Certified by Ericsson
 
 This Specialization covers the fundamentals of web development with Ruby on Rails. You’ll learn everything you need to develop your own web application using Ruby on Rails, SQL and NoSQL databases, and HTML/CSS, and Javascript. We will also touch on advanced topics such as security, services using HTTP/RESTful access patterns, and user access and user experience from multiple device platforms. In the final Capstone Project, you’ll apply your skills to develop a web application that hosts uploaded photos and displays them using a map.
 
-[Homepage](https://coursera.com)
+[Homepage](https://www.coursera.org/learn/ruby-on-rails-web-services-mongodb/)
 
 ## Topics
 ```
@@ -19,7 +19,7 @@ Syllabus
 
 Week 1
 Introduction to NoSQL and MongoDB
-[x] Module 1: Introduction to MongoDB, Mongo-Ruby API, and CRUD 3 min
+[x] Welcome to Module 1: Introduction to MongoDB, Mongo-Ruby API, and CRUD 3 min
 [x] Github Repository for Module 1 10 min
 [x] Introduction to NoSQL 12 min
 [x] Categories of NoSQL 8 min
@@ -29,20 +29,20 @@ Introduction to NoSQL and MongoDB
 [x] Practice Programming Assignment - MongoDB Ruby Driver Connection 10 min
 CRUD
 [x] Inserting Documents 5 min
-[ ] Practice Programming Assignment - MongoDB Ruby Driver CRUD 10 min
-[ ] Find 10 min
-[ ] Paging 5 min
-[ ] Advanced Find 12 min
-[ ] Replace, Update, and Delete 12 min
+[~] Practice Programming Assignment - MongoDB Ruby Driver CRUD 10 min
+[x] Find 10 min
+[x] Paging 5 min
+[x] Advanced Find 12 min
+[x] Replace, Update, and Delete 12 min
 Integrating MongoDB and Rails
-[ ] Introduction: Integrating MongoDB with Ruby Driver 3 min
-[ ] Rails Setup 8 min
-[ ] DAO Class Infrastructure 4 min
-[ ] CRUD 8 min
-[ ] Scaffolding 7 min
-[ ] MVC Application 12 min
-[ ] MongoLab Setup 9 min
-[ ] Heroku Setup 6 min
+[x] Introduction: Integrating MongoDB with Ruby Driver 3 min
+[x] Rails Setup 8 min
+[x] DAO Class Infrastructure 4 min
+[x] CRUD 8 min
+[x] Scaffolding 7 min
+[x] MVC Application 12 min
+[x] MongoLab Setup 9 min
+[x] Heroku Setup 6 min
 [ ] Programming Assignment: Integrating MongoDB Ruby Driver and Rails 4h
 
 Week 2
