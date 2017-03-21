@@ -56,10 +56,10 @@ Aggregation Framework
 [x] $match 5 min
 [x] $unwind 4 min
 Schema Design
-[ ] Schema Design 6 min
-[ ] Normalization 5 min
-[ ] Relationships 9 min
-[ ] Practice Programming Assignment: Schema Design 10 min
+[x] Schema Design 6 min
+[x] Normalization 5 min
+[x] Relationships 9 min
+[x] Practice Programming Assignment: Schema Design 10 min
 GridFS and Geospatial
 [ ] GridFS 8 min
 [ ] GridFS Demo 1 5 min
