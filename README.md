@@ -47,14 +47,14 @@ Integrating MongoDB and Rails
 
 Week 2
 Aggregation Framework
-[ ] Welcome to Module 2: Aggregation Framework, Performance, and Advanced MongoDB 3 min
-[ ] Github Repository for Module 2 10 min
-[ ] Introduction to Aggregation 7 min
-[ ] Practice Programming Assignment - Aggregation Framework 10 min
-[ ] $project 5 min
-[ ] $group 12 min
-[ ] $match 5 min
-[ ] $unwind 4 min
+[x] Welcome to Module 2: Aggregation Framework, Performance, and Advanced MongoDB 3 min
+[x] Github Repository for Module 2 10 min
+[x] Introduction to Aggregation 7 min
+[x] Practice Programming Assignment - Aggregation Framework 10 min
+[x] $project 5 min
+[x] $group 12 min
+[x] $match 5 min
+[x] $unwind 4 min
 Schema Design
 [ ] Schema Design 6 min
 [ ] Normalization 5 min
