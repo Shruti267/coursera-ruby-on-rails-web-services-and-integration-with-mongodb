@@ -61,12 +61,12 @@ Schema Design
 [x] Relationships 9 min
 [x] Practice Programming Assignment: Schema Design 10 min
 GridFS and Geospatial
-[ ] GridFS 8 min
-[ ] GridFS Demo 1 5 min
-[ ] GridFS Demo 2 7 min
-[ ] GridFS Demo 3 17 min
-[ ] Geospatial 7 min
-[ ] Geospatial Demo 9 min
+[x] GridFS 8 min
+[x] GridFS Demo 1 5 min
+[x] GridFS Demo 2 7 min
+[x] GridFS Demo 3 17 min
+[x] Geospatial 7 min
+[x] Geospatial Demo 9 min
 Indexes
 [ ] Introduction to Indexes 8 min
 [ ] Creating Indexes 9 min
