@@ -68,11 +68,11 @@ GridFS and Geospatial
 [x] Geospatial 7 min
 [x] Geospatial Demo 9 min
 Indexes
-[ ] Introduction to Indexes 8 min
-[ ] Creating Indexes 9 min
-[ ] Listing & Deleting Indexes 3 min
-[ ] Unique, Sparse & TTL Indexes 6 min
-[ ] Programming Assignment: Advanced MongoDB Ruby Driver Topics 6h
+[x] Introduction to Indexes 8 min
+[x] Creating Indexes 9 min
+[x] Listing & Deleting Indexes 3 min
+[x] Unique, Sparse & TTL Indexes 6 min
+[x] Programming Assignment: Advanced MongoDB Ruby Driver Topics 6h
 
 Week 3
 Introduction to Mongoid
