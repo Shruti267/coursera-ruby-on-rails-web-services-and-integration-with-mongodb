@@ -76,23 +76,23 @@ Indexes
 
 Week 3
 Introduction to Mongoid
-[ ] Welcome to Module 3: Mongoid 2 min
-[ ] Github Repository for Module 3 10 min
-[ ] Introduction to Mongoid 6 min
-[ ] Document Class 16 min
-[ ] Mongoid CRUD 8 min
-[ ] Movie Application Setup 7 min
-[ ] Practice Programming Assignment: Mongoid Setup and Document CRUD10 min
+[x] Welcome to Module 3: Mongoid 2 min
+[x] Github Repository for Module 3 10 min
+[x] Introduction to Mongoid 6 min
+[x] Document Class 16 min
+[x] Mongoid CRUD 8 min
+[x] Movie Application Setup 7 min
+[~] Practice Programming Assignment: Mongoid Setup and Document CRUD10 min
 Relationships
-[ ] 1:1 Embedded Relationship 10 min
-[ ] M:1 Linked Relationship 5 min
-[ ] 1:M Embedded Relationship 8 min
-[ ] M:1 Embedded Relationship 8 min
-[ ] 1:1 Linked Relationship 4 min
-[ ] M:M Linked Relationship 12 min
-[ ] Constraints and Validation 8 min
-[ ] Constraints and Validation: Demo 21 min
-[ ] Practice Programming Assignment: Mongoid Relationships 10 min
+[x] 1:1 Embedded Relationship 10 min
+[x] M:1 Linked Relationship 5 min
+[x] 1:M Embedded Relationship 8 min
+[x] M:1 Embedded Relationship 8 min
+[x] 1:1 Linked Relationship 4 min
+[x] M:M Linked Relationship 12 min
+[x] Constraints and Validation 8 min
+[x] Constraints and Validation: Demo 21 min
+[~] Practice Programming Assignment: Mongoid Relationships 10 min
 Queries
 [ ] Queries (Find) 6 min
 [ ] Queries (Where) 10 min
