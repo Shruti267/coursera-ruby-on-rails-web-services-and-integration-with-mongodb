@@ -29,7 +29,7 @@ Introduction to NoSQL and MongoDB
 [x] Practice Programming Assignment - MongoDB Ruby Driver Connection 10 min
 CRUD
 [x] Inserting Documents 5 min
-[~] Practice Programming Assignment - MongoDB Ruby Driver CRUD 10 min
+[x] Practice Programming Assignment - MongoDB Ruby Driver CRUD 10 min
 [x] Find 10 min
 [x] Paging 5 min
 [x] Advanced Find 12 min
@@ -82,7 +82,7 @@ Introduction to Mongoid
 [x] Document Class 16 min
 [x] Mongoid CRUD 8 min
 [x] Movie Application Setup 7 min
-[~] Practice Programming Assignment: Mongoid Setup and Document CRUD10 min
+[x] Practice Programming Assignment: Mongoid Setup and Document CRUD10 min
 Relationships
 [x] 1:1 Embedded Relationship 10 min
 [x] M:1 Linked Relationship 5 min
@@ -92,26 +92,26 @@ Relationships
 [x] M:M Linked Relationship 12 min
 [x] Constraints and Validation 8 min
 [x] Constraints and Validation: Demo 21 min
-[~] Practice Programming Assignment: Mongoid Relationships 10 min
+[x] Practice Programming Assignment: Mongoid Relationships 10 min
 Queries
-[ ] Queries (Find) 6 min
-[ ] Queries (Where) 10 min
-[ ] Pluck and Scope 14 min
-[ ] Scaffolding 10 min
-[ ] Programming Assignment: Mongoid and Rails Scaffold 12h
+[x] Queries (Find) 6 min
+[x] Queries (Where) 10 min
+[x] Pluck and Scope 14 min
+[x] Scaffolding 10 min
+[x] Programming Assignment: Mongoid and Rails Scaffold 12h
 
 Week 4
 Introduction to Web Services
-[ ] Welcome to Module 4: Web Services 3 min
-[ ] Github Repository for Module 4 10 min
-[ ] Introduction to Web Services 10 min
-[ ] REST and RMM 12 min
-[ ] Resources 6 min
-[ ] URIs 7 min
-[ ] Nested URIs 6 min
-[ ] Query Parameters 10 min
-[ ] Methods 8 min
-[ ] Practice Quiz: Web Services and REST 7 questions
+[x] Welcome to Module 4: Web Services 3 min
+[x] Github Repository for Module 4 10 min
+[x] Introduction to Web Services 10 min
+[x] REST and RMM 12 min
+[x] Resources 6 min
+[x] URIs 7 min
+[x] Nested URIs 6 min
+[x] Query Parameters 10 min
+[x] Methods 8 min
+[x] Practice Quiz: Web Services and REST 7 questions
 Web Service Interface Topics
 [ ] Idempotence 4 min
 [ ] Representations 13 min
