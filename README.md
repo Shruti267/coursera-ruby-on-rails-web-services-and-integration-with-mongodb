@@ -113,12 +113,12 @@ Introduction to Web Services
 [x] Methods 8 min
 [x] Practice Quiz: Web Services and REST 7 questions
 Web Service Interface Topics
-[ ] Idempotence 4 min
-[ ] Representations 13 min
-[ ] Versioning 6 min
-[ ] Content Negotiations 6 min
-[ ] Headers and Status 15 min
-[ ] Practice Quiz: Interfaces 5 questions
+[x] Idempotence 4 min
+[x] Representations 13 min
+[x] Versioning 6 min
+[x] Content Negotiations 6 min
+[x] Headers and Status 15 min
+[x] Practice Quiz: Interfaces 5 questions
 Caching
 [ ] Client Caching 7 min
 [ ] Cache Revalidation Headers 7 min
