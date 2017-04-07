@@ -126,10 +126,10 @@ Caching
 [x] Server Caching 8 min
 [x] Practice Quiz: Caching5 questions
 Security
-[ ] OAuth2 12 min
-[ ] Assembly 4 min
-[ ] Devise 6 min
-[ ] Integrated Authentication 11 min
-[ ] OAuth Integration 7 min
-[ ] Programming Assignment: Web Services4h
+[x] OAuth2 12 min
+[x] Assembly 4 min
+[x] Devise 6 min
+[x] Integrated Authentication 11 min
+[x] OAuth Integration 7 min
+[x] Programming Assignment: Web Services4h
 ```
