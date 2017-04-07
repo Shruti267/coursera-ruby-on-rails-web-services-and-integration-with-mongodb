@@ -120,11 +120,11 @@ Web Service Interface Topics
 [x] Headers and Status 15 min
 [x] Practice Quiz: Interfaces 5 questions
 Caching
-[ ] Client Caching 7 min
-[ ] Cache Revalidation Headers 7 min
-[ ] Cache Controls 7 min
-[ ] Server Caching 8 min
-[ ] Practice Quiz: Caching5 questions
+[x] Client Caching 7 min
+[x] Cache Revalidation Headers 7 min
+[x] Cache Controls 7 min
+[x] Server Caching 8 min
+[x] Practice Quiz: Caching5 questions
 Security
 [ ] OAuth2 12 min
 [ ] Assembly 4 min
